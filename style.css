@@ -115,3 +115,34 @@ footer{
     text-align: end;
     margin-right: 230px;
 }
+
+button{
+    font-weight: 700;
+    padding: 6px 20px;
+    border-style: none;
+    color: #E5E7EB;
+    border-radius: 6px;
+    background-color: #3882F6;
+}
+
+.card{
+    padding: 30px 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.card>button{
+    color: #3882F6;
+    background-color: #E5E7EB;
+    align-self: center; 
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 20px;
+}
