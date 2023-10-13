@@ -92,3 +92,26 @@ h2{
     width: 200px;
     margin-bottom: 200px;
 }
+
+.quote>p{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: light italic;
+    padding:  0px 200px;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+footer{
+    color: #E5E7EB;
+    text-align: center;
+    padding: 28px;
+}
+
+.quote>h2{
+    text-align: end;
+    margin-right: 230px;
+}
