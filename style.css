@@ -135,8 +135,8 @@ button{
 }
 
 .card>button{
-    color: #3882F6;
-    background-color: #E5E7EB;
+    color: #E5E7EB;
+    border: 2px ridge #E5E7EB;
     align-self: center; 
 }
 
